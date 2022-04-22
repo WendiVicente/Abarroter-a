@@ -1,0 +1,587 @@
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\CheckComboBox.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\EnvDTE.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\EnvDTE80.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\stdole.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\obj\Debug\CapaDatos.Migrations.upd221.resources
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\obj\Debug\CapaDatos.csproj.GenerateResource.cache
+C:\Users\Niky\Documents\sistemaposEmilio\CapaDatos\obj\Debug\CapaDatos.Migrations.dbodd.resources
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\CheckComboBox.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Buffers.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Memory.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\EnvDTE.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\EnvDTE80.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\stdole.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Buffers.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Memory.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\CheckComboBox.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Buffers.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Memory.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\EnvDTE.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\EnvDTE80.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\stdole.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Buffers.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Memory.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\CheckComboBox.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\System.Buffers.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\System.Memory.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\EnvDTE.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\EnvDTE80.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\stdole.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\System.Buffers.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\System.Memory.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\CheckComboBox.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\System.Buffers.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\System.Collections.Immutable.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\System.Memory.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\EnvDTE.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\EnvDTE80.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\stdole.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.MSXML.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\System.Buffers.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\System.Collections.Immutable.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\System.Memory.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\CapaDatos\obj\Debug\CapaDatos.pdb

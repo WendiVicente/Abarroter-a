@@ -1,0 +1,1837 @@
+C:\Users\XOR94\source\repos\Sistema\POS\bin\Debug\POS.exe.config
+C:\Users\XOR94\source\repos\Sistema\POS\bin\Debug\POS.exe
+C:\Users\XOR94\source\repos\Sistema\POS\bin\Debug\POS.pdb
+C:\Users\XOR94\source\repos\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Design.dll
+C:\Users\XOR94\source\repos\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\XOR94\source\repos\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\XOR94\source\repos\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\XOR94\source\repos\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\XOR94\source\repos\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\XOR94\source\repos\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Design.pdb
+C:\Users\XOR94\source\repos\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\XOR94\source\repos\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\XOR94\source\repos\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\XOR94\source\repos\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\XOR94\source\repos\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\XOR94\source\repos\Sistema\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\XOR94\source\repos\Sistema\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\XOR94\source\repos\Sistema\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\XOR94\source\repos\Sistema\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\XOR94\source\repos\Sistema\POS\obj\Debug\POS.exe
+C:\Users\XOR94\source\repos\Sistema\POS\obj\Debug\POS.pdb
+C:\Users\XOR94\source\repos\Sistema\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\XOR94\source\repos\Sistema\POS\obj\Debug\POS.MDIParent1.resources
+C:\Users\XOR94\source\repos\Sistema\POS\bin\Debug\CapaDatos.dll
+C:\Users\XOR94\source\repos\Sistema\POS\bin\Debug\EntityFramework.dll
+C:\Users\XOR94\source\repos\Sistema\POS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\XOR94\source\repos\Sistema\POS\bin\Debug\CapaDatos.pdb
+C:\Users\XOR94\source\repos\Sistema\POS\bin\Debug\CapaDatos.dll.config
+C:\Users\XOR94\source\repos\Sistema\POS\bin\Debug\EntityFramework.xml
+C:\Users\XOR94\source\repos\Sistema\POS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\bin\Debug\POS.exe.config
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\bin\Debug\POS.exe
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\bin\Debug\POS.pdb
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\bin\Debug\CapaDatos.dll
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Design.dll
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\bin\Debug\EntityFramework.dll
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\bin\Debug\CapaDatos.pdb
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\bin\Debug\CapaDatos.dll.config
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Design.pdb
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\bin\Debug\EntityFramework.xml
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\obj\Debug\POS.MDIParent1.resources
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\obj\Debug\POS.exe
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\obj\Debug\POS.pdb
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.AddProducto.resources
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.Descuento.resources
+C:\Users\alexa\Desktop\Proyectos\05112020\Owl-POS\Sistema\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\Proyectos\05112020\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.AddProducto.resources
+C:\Users\alexa\Desktop\Proyectos\05112020\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.Descuento.resources
+C:\Users\alexa\Desktop\Proyectos\05112020\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.Pago.resources
+C:\Users\alexa\Desktop\Proyectos\05112020\Owl-POS\Sistema\POS\obj\Debug\POS.MDIParent1.resources
+C:\Users\alexa\Desktop\Proyectos\05112020\Owl-POS\Sistema\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\alexa\Desktop\Proyectos\05112020\Owl-POS\Sistema\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\alexa\Desktop\Proyectos\05112020\Owl-POS\Sistema\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Proyectos\05112020\Owl-POS\Sistema\POS\obj\Debug\POS.exe
+C:\Users\alexa\Desktop\Proyectos\05112020\Owl-POS\Sistema\POS\obj\Debug\POS.pdb
+C:\Users\alexa\Desktop\Proyectos\05112020\Owl-POS\Sistema\POS\bin\Debug\POS.exe.config
+C:\Users\alexa\Desktop\Proyectos\05112020\Owl-POS\Sistema\POS\bin\Debug\POS.exe
+C:\Users\alexa\Desktop\Proyectos\05112020\Owl-POS\Sistema\POS\bin\Debug\POS.pdb
+C:\Users\alexa\Desktop\Proyectos\05112020\Owl-POS\Sistema\POS\bin\Debug\CapaDatos.dll
+C:\Users\alexa\Desktop\Proyectos\05112020\Owl-POS\Sistema\POS\bin\Debug\EntityFramework.dll
+C:\Users\alexa\Desktop\Proyectos\05112020\Owl-POS\Sistema\POS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexa\Desktop\Proyectos\05112020\Owl-POS\Sistema\POS\bin\Debug\CapaDatos.pdb
+C:\Users\alexa\Desktop\Proyectos\05112020\Owl-POS\Sistema\POS\bin\Debug\CapaDatos.dll.config
+C:\Users\alexa\Desktop\Proyectos\05112020\Owl-POS\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Design.pdb
+C:\Users\alexa\Desktop\Proyectos\05112020\Owl-POS\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\alexa\Desktop\Proyectos\05112020\Owl-POS\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\alexa\Desktop\Proyectos\05112020\Owl-POS\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\alexa\Desktop\Proyectos\05112020\Owl-POS\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\alexa\Desktop\Proyectos\05112020\Owl-POS\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\alexa\Desktop\Proyectos\05112020\Owl-POS\Sistema\POS\bin\Debug\EntityFramework.xml
+C:\Users\alexa\Desktop\Proyectos\05112020\Owl-POS\Sistema\POS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexa\Desktop\Proyectos\05112020\Owl-POS\Sistema\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.Pago.resources
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\XOR94\Desktop\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.LoginForm.resources
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\bin\Debug\POS.exe.config
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\bin\Debug\POS.exe
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\bin\Debug\POS.pdb
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\bin\Debug\CapaDatos.dll
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\bin\Debug\EntityFramework.dll
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\bin\Debug\CapaDatos.pdb
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\bin\Debug\CapaDatos.dll.config
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Design.pdb
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\bin\Debug\EntityFramework.xml
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.AddProducto.resources
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.Descuento.resources
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.LoginForm.resources
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.Pago.resources
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\obj\Debug\POS.MDIParent1.resources
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\obj\Debug\POS.exe
+C:\Users\alexa\Desktop\Proyectos\10112020\Owl-POS\Sistema\POS\obj\Debug\POS.pdb
+C:\Users\alexa\Desktop\Proyectos\23112020\Owl-POS\Sistema\POS\bin\Debug\POS.exe.config
+C:\Users\alexa\Desktop\Proyectos\23112020\Owl-POS\Sistema\POS\bin\Debug\POS.exe
+C:\Users\alexa\Desktop\Proyectos\23112020\Owl-POS\Sistema\POS\bin\Debug\POS.pdb
+C:\Users\alexa\Desktop\Proyectos\23112020\Owl-POS\Sistema\POS\bin\Debug\CapaDatos.dll
+C:\Users\alexa\Desktop\Proyectos\23112020\Owl-POS\Sistema\POS\bin\Debug\EntityFramework.dll
+C:\Users\alexa\Desktop\Proyectos\23112020\Owl-POS\Sistema\POS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexa\Desktop\Proyectos\23112020\Owl-POS\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\alexa\Desktop\Proyectos\23112020\Owl-POS\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\alexa\Desktop\Proyectos\23112020\Owl-POS\Sistema\POS\bin\Debug\CapaDatos.pdb
+C:\Users\alexa\Desktop\Proyectos\23112020\Owl-POS\Sistema\POS\bin\Debug\CapaDatos.dll.config
+C:\Users\alexa\Desktop\Proyectos\23112020\Owl-POS\Sistema\POS\bin\Debug\EntityFramework.xml
+C:\Users\alexa\Desktop\Proyectos\23112020\Owl-POS\Sistema\POS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexa\Desktop\Proyectos\23112020\Owl-POS\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\alexa\Desktop\Proyectos\23112020\Owl-POS\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\alexa\Desktop\Proyectos\23112020\Owl-POS\Sistema\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\Proyectos\23112020\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.AddProducto.resources
+C:\Users\alexa\Desktop\Proyectos\23112020\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.Descuento.resources
+C:\Users\alexa\Desktop\Proyectos\23112020\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.LoginForm.resources
+C:\Users\alexa\Desktop\Proyectos\23112020\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.Pago.resources
+C:\Users\alexa\Desktop\Proyectos\23112020\Owl-POS\Sistema\POS\obj\Debug\POS.MDIParent1.resources
+C:\Users\alexa\Desktop\Proyectos\23112020\Owl-POS\Sistema\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\alexa\Desktop\Proyectos\23112020\Owl-POS\Sistema\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\alexa\Desktop\Proyectos\23112020\Owl-POS\Sistema\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Proyectos\23112020\Owl-POS\Sistema\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\alexa\Desktop\Proyectos\23112020\Owl-POS\Sistema\POS\obj\Debug\POS.exe
+C:\Users\alexa\Desktop\Proyectos\23112020\Owl-POS\Sistema\POS\obj\Debug\POS.pdb
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.AddProducto.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\POS.exe.config
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\POS.exe
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\POS.pdb
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\CapaDatos.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\CheckComboBox.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\EntityFramework.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\EnvDTE.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\EnvDTE80.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\stdole.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\CapaDatos.pdb
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\CapaDatos.dll.config
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\EntityFramework.xml
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.exe.config
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.Descuento.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.LoginForm.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.Pago.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.MDIParent1.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.exe
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.pdb
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\POS.exe.manifest
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\POS.application
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.exe.manifest
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.application
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.BaseContext.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.Principal.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.AgregarCotizacion.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.AgregarPedido.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.AgregarVale.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.Mas.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.Recibo.ReciboVenta.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\RdlCompile.cache
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\RdlCompile.compiled
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.Recibo.FacturaFEL.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.Recibo.ComprobanteVenta.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.NotaCreditoFacturacion.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.Recibo.ReporteReciboCliente.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.VentasPendientes.resources
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\obj\Debug\POS.exe.config
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\obj\Debug\POS.BaseContext.resources
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.AddProducto.resources
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.AgregarCotizacion.resources
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.AgregarPedido.resources
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.AgregarVale.resources
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.Descuento.resources
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.LoginForm.resources
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.Mas.resources
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.NotaCreditoFacturacion.resources
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.Pago.resources
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.VentasPendientes.resources
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\obj\Debug\POS.MDIParent1.resources
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\obj\Debug\POS.Principal.resources
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\obj\Debug\POS.Recibo.ComprobanteVenta.resources
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\obj\Debug\POS.Recibo.FacturaFEL.resources
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\obj\Debug\POS.Recibo.ReciboVenta.resources
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\obj\Debug\POS.Recibo.ReporteReciboCliente.resources
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\obj\Debug\POS.exe
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\obj\Debug\POS.pdb
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\POS.exe.config
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\POS.exe.manifest
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\POS.application
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\POS.exe
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\POS.pdb
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\CapaDatos.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\CheckComboBox.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\EntityFramework.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\EnvDTE.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\EnvDTE80.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\stdole.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\CapaDatos.pdb
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\CapaDatos.dll.config
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\EntityFramework.xml
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\obj\Debug\POS.exe.manifest
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\obj\Debug\POS.application
+C:\Users\nysa\Desktop\software\Owl-POS\Sistema\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\obj\Debug\POS.Forms.VentaAcumulada.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\Castle.Core.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\NSubstitute.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\Castle.Core.xml
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\NSubstitute.xml
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-POS\Sistema\POS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\POS.exe.config
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\POS.exe.manifest
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\POS.application
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\POS.exe
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\POS.pdb
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\CapaDatos.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\Castle.Core.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\CheckComboBox.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\EntityFramework.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\NSubstitute.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\EnvDTE.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\EnvDTE80.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\stdole.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\CapaDatos.pdb
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\CapaDatos.dll.config
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\Castle.Core.xml
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\EntityFramework.xml
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\NSubstitute.xml
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.exe.config
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.BaseContext.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.Forms.AddProducto.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.Forms.AgregarCotizacion.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.Forms.AgregarPedido.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.Forms.AgregarVale.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.Forms.Descuento.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.Forms.LoginForm.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.Forms.Mas.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.Forms.NotaCreditoFacturacion.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.Forms.Pago.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.Forms.VentaAcumulada.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.Forms.VentasPendientes.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.MDIParent1.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.Principal.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.Recibo.ComprobanteVenta.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.Recibo.FacturaFEL.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.Recibo.ReciboVenta.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.Recibo.ReporteReciboCliente.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\RdlCompile.cache
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\RdlCompile.compiled
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.exe.manifest
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.application
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.exe
+C:\Users\alexa\Desktop\Proyectos\13112020\Owl-JEESS\Sistema\POS\obj\Debug\POS.pdb
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.exe.config
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.BaseContext.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.Forms.AddProducto.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.Forms.AgregarCotizacion.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.Forms.AgregarPedido.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.Forms.AgregarVale.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.Forms.Descuento.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.Forms.LoginForm.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.Forms.Mas.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.Forms.NotaCreditoFacturacion.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.Forms.Pago.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.Forms.VentaAcumulada.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.Forms.VentasPendientes.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.MDIParent1.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.Principal.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.Recibo.ComprobanteVenta.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.Recibo.FacturaFEL.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.Recibo.ReciboVenta.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.Recibo.ReporteReciboCliente.resources
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\RdlCompile.cache
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\RdlCompile.compiled
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.exe
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.pdb
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.exe.manifest
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\POS.exe.config
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\POS.exe.manifest
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\POS.application
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\POS.exe
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\POS.pdb
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\CapaDatos.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\Castle.Core.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\CheckComboBox.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\EntityFramework.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\NSubstitute.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\EnvDTE.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\EnvDTE80.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\stdole.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\CapaDatos.pdb
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\CapaDatos.dll.config
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\Castle.Core.xml
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\EntityFramework.xml
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\NSubstitute.xml
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.application
+C:\Users\alexa\Desktop\Proyectos\13112020\02072021\Sistema\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\POS.exe.config
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\POS.exe.manifest
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\POS.application
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\POS.exe
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\POS.pdb
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\CapaDatos.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\Castle.Core.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\CheckComboBox.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\EntityFramework.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\NSubstitute.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\EnvDTE.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\EnvDTE80.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\stdole.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\CapaDatos.pdb
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\CapaDatos.dll.config
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\Castle.Core.xml
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\EntityFramework.xml
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\NSubstitute.xml
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.exe.config
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.BaseContext.resources
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.Forms.AddProducto.resources
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.Forms.AgregarCotizacion.resources
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.Forms.AgregarPedido.resources
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.Forms.AgregarVale.resources
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.Forms.Descuento.resources
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.Forms.LoginForm.resources
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.Forms.Mas.resources
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.Forms.NotaCreditoFacturacion.resources
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.Forms.Pago.resources
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.Forms.VentaAcumulada.resources
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.Forms.VentasPendientes.resources
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.MDIParent1.resources
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.Principal.resources
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.Recibo.ComprobanteVenta.resources
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.Recibo.FacturaFEL.resources
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.Recibo.ReciboVenta.resources
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.Recibo.ReporteReciboCliente.resources
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.exe.manifest
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.application
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.exe
+C:\Users\Stevcode\Documents\FUENTES\Sistema\POS\obj\Debug\POS.pdb
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\POS.exe.config
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\POS.exe.manifest
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\POS.application
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\POS.exe
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\POS.pdb
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\BarcodeStandard.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\CapaDatos.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\Castle.Core.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\CheckComboBox.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\EntityFramework.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\NSubstitute.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\System.Buffers.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\System.Drawing.Common.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\System.Memory.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\System.Text.Json.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\System.ValueTuple.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\EnvDTE.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\EnvDTE80.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\stdole.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\CapaDatos.pdb
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\CapaDatos.dll.config
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\Castle.Core.xml
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\EntityFramework.xml
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\NSubstitute.xml
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\System.Buffers.xml
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\System.Memory.xml
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\System.Text.Json.xml
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\System.ValueTuple.xml
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.exe.config
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.BaseContext.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.Forms.AddProducto.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.Forms.AgregarCotizacion.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.Forms.AgregarPedido.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.Forms.AgregarVale.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.Forms.Calculadora.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.Forms.DatosCliente.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.Forms.Consulta_Producto.GridConsulta.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.Forms.Descuento.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.Forms.DetallePrecios.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.Forms.IngresoToken.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.Forms.ItemLista.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.Forms.LoginForm.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.Forms.Mas.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.Forms.NotaCreditoFacturacion.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.Forms.Observaciones.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.Forms.Pago.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.Forms.Traslados.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.Forms.VentaAcumulada.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.Forms.VentasPendientes.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.MDIParent1.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.Principal.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.PuntoDeVenta.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.Recibo.ComprobanteVenta.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.Recibo.FacturaFEL.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.Recibo.ReciboVenta.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.Recibo.ReporteReciboCliente.resources
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\RdlCompile.cache
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\RdlCompile.compiled
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.exe.manifest
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.application
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.exe
+C:\Users\Stevcode\Documents\FUENTES\SistemaEmilio\POS\obj\Debug\POS.pdb
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\POS.exe.config
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\POS.exe.manifest
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\POS.application
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\POS.exe
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\POS.pdb
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\BarcodeStandard.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\CapaDatos.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\Castle.Core.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\CheckComboBox.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\EntityFramework.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\NSubstitute.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\System.Buffers.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\System.Drawing.Common.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\System.Memory.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\System.Text.Json.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\System.ValueTuple.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\EnvDTE.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\EnvDTE80.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\stdole.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\CapaDatos.pdb
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\CapaDatos.dll.config
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\Castle.Core.xml
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\EntityFramework.xml
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\NSubstitute.xml
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\System.Buffers.xml
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\System.Memory.xml
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\System.Text.Json.xml
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\System.ValueTuple.xml
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.exe.config
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.BaseContext.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Forms.AddProducto.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Forms.AgregarCotizacion.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Forms.AgregarPedido.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Forms.AgregarVale.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Forms.Calculadora.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Forms.DatosCliente.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Forms.DocumentoPOS.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Forms.SeleccionarElemento.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Forms.Descuento.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Forms.DetallePrecios.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Forms.IngresoToken.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Forms.ItemLista.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Forms.DocumentosGuardados.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Forms.LoginForm.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Forms.Mas.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Forms.NotaCreditoFacturacion.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Forms.Observaciones.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Forms.Pago.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Forms.Traslados.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Forms.Cobro.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Forms.MonitorFacturacion.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Forms.VentaAcumulada.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Forms.VentasPendientes.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.MDIParent1.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Principal.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.PuntoDeVenta.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Recibo.ComprobanteVenta.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Recibo.FacturaFEL.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Recibo.ReciboVenta.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.Recibo.ReporteReciboCliente.resources
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\RdlCompile.cache
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\RdlCompile.compiled
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.exe.manifest
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.application
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.exe
+C:\Users\Stevcode\Documents\Emilio\POS\obj\Debug\POS.pdb
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\POS.exe.config
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\POS.exe.manifest
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\POS.application
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\POS.exe
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\POS.pdb
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\BarcodeStandard.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\CapaDatos.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\Castle.Core.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\CheckComboBox.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\EntityFramework.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\NSubstitute.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\System.Buffers.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\System.Drawing.Common.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\System.Memory.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\System.Text.Json.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\System.ValueTuple.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\EnvDTE.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\EnvDTE80.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\stdole.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\CapaDatos.pdb
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\CapaDatos.dll.config
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\Castle.Core.xml
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\EntityFramework.xml
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\NSubstitute.xml
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\System.Buffers.xml
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\System.Memory.xml
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\System.Text.Json.xml
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\System.ValueTuple.xml
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.exe.config
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.BaseContext.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Forms.AddProducto.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Forms.AgregarCotizacion.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Forms.AgregarPedido.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Forms.AgregarVale.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Forms.Calculadora.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Forms.Complementos.CuentaPorCobrar.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Forms.DatosCliente.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Forms.DocumentoPOS.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Forms.Complementos.NuevoCliente.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Forms.SeleccionarElemento.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Forms.Descuento.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Forms.DetallePrecios.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Forms.IngresoToken.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Forms.ItemLista.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Forms.DocumentosGuardados.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Forms.LoginForm.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Forms.Mas.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Forms.NotaCreditoFacturacion.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Forms.Observaciones.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Forms.Pago.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Forms.Traslados.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Forms.Cobro.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Forms.MonitorFacturacion.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Forms.VentaAcumulada.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Forms.VentasPendientes.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.MDIParent1.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Principal.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.PuntoDeVenta.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Recibo.ComprobanteVenta.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Recibo.FacturaFEL.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Recibo.ReciboVenta.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.Recibo.ReporteReciboCliente.resources
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\RdlCompile.cache
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\RdlCompile.compiled
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.exe.manifest
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.application
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.exe
+C:\Users\Niky\Documents\sistemaposEmilio\POS\obj\Debug\POS.pdb
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\POS.exe.config
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\POS.exe.manifest
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\POS.application
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\POS.exe
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\POS.pdb
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\CapaDatos.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Castle.Core.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\CheckComboBox.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\EntityFramework.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\ExcelDataReader.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\NSubstitute.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\System.Buffers.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\System.Memory.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\EnvDTE.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\EnvDTE80.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\stdole.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\CapaDatos.pdb
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\CapaDatos.dll.config
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Castle.Core.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\EntityFramework.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\ExcelDataReader.pdb
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\ExcelDataReader.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\NSubstitute.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\System.Buffers.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\System.Memory.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.exe.config
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.BaseContext.resources
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.AddProducto.resources
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.AgregarCotizacion.resources
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.AgregarPedido.resources
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.AgregarVale.resources
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.Calculadora.resources
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.Cargando.resources
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.Descuento.resources
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.DetalleProductos.resources
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.LoginForm.resources
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.Mas.resources
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.NotaCreditoFacturacion.resources
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.Pago.resources
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.ProductoGrano.resources
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.RecargasPOS.resources
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.VentaAcumulada.resources
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.VentasPendientes.resources
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.MDIParent1.resources
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Principal.resources
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.PrincipalV2.resources
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Recibo.ComprobanteVenta.resources
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Recibo.FacturaFEL.resources
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Recibo.ReciboVenta.resources
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Recibo.ReporteReciboCliente.resources
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\RdlCompile.cache
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\RdlCompile.compiled
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.exe.manifest
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.application
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.exe
+C:\Users\Niky\Desktop\AbarroteriaFredi\POS\obj\Debug\POS.pdb
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.exe.config
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.BaseContext.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.AddProducto.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.AgregarCotizacion.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.AgregarPedido.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.AgregarVale.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.Calculadora.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.Cargando.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.Descuento.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.DetalleProductos.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.LoginForm.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.Mas.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.NotaCreditoFacturacion.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.Pago.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.ProductoGrano.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.RecargasPOS.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.VentaAcumulada.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Forms.VentasPendientes.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.MDIParent1.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Principal.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.PrincipalV2.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Recibo.ComprobanteVenta.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Recibo.FacturaFEL.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Recibo.ReciboVenta.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.Recibo.ReporteReciboCliente.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\RdlCompile.cache
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\RdlCompile.compiled
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.exe
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.pdb
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\POS.exe.config
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\POS.exe.manifest
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\POS.application
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\POS.exe
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\POS.pdb
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\CapaDatos.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Castle.Core.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\CheckComboBox.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\EntityFramework.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\ExcelDataReader.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\NSubstitute.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\System.Buffers.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\System.Memory.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\EnvDTE.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\EnvDTE80.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\stdole.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\CapaDatos.pdb
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\CapaDatos.dll.config
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Castle.Core.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\EntityFramework.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\ExcelDataReader.pdb
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\ExcelDataReader.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\NSubstitute.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\System.Buffers.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\System.Memory.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.exe.manifest
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.application
+C:\Users\Niky\Desktop\Proyectos Desktop\AbarroteriaFredi\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\POS.exe.config
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\POS.exe.manifest
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\POS.application
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\POS.exe
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\POS.pdb
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\CapaDatos.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Castle.Core.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\CheckComboBox.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\EntityFramework.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\ExcelDataReader.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\NSubstitute.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\System.Buffers.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\System.Memory.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\EnvDTE.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\EnvDTE80.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\stdole.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\CapaDatos.pdb
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\CapaDatos.dll.config
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Castle.Core.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\EntityFramework.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\ExcelDataReader.pdb
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\ExcelDataReader.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\NSubstitute.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\System.Buffers.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\System.Memory.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.exe.config
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.BaseContext.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.Forms.AddProducto.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.Forms.AgregarCotizacion.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.Forms.AgregarPedido.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.Forms.AgregarVale.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.Forms.Calculadora.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.Forms.Cargando.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.Forms.Descuento.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.Forms.DetalleProductos.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.Forms.LoginForm.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.Forms.Mas.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.Forms.NotaCreditoFacturacion.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.Forms.Pago.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.Forms.ProductoGrano.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.Forms.RecargasPOS.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.Forms.VentaAcumulada.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.Forms.VentasPendientes.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.MDIParent1.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.Principal.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.PrincipalV2.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.Recibo.ComprobanteVenta.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.Recibo.FacturaFEL.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.Recibo.ReciboVenta.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.Recibo.ReporteReciboCliente.resources
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\RdlCompile.cache
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\RdlCompile.compiled
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.exe.manifest
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.application
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.exe
+C:\Users\Niky\Desktop\Proyectos Desktop\Abarroteria\POS\obj\Debug\POS.pdb
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\POS.exe.config
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\POS.exe.manifest
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\POS.application
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\POS.exe
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\POS.pdb
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\CapaDatos.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Castle.Core.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\CheckComboBox.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\EntityFramework.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\ExcelDataReader.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\NSubstitute.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\System.Buffers.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\System.Collections.Immutable.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\System.Memory.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\EnvDTE.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\EnvDTE80.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\stdole.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\CapaDatos.pdb
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\CapaDatos.dll.config
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Castle.Core.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\EntityFramework.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\ExcelDataReader.pdb
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\ExcelDataReader.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\NSubstitute.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\System.Buffers.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\System.Collections.Immutable.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\System.Memory.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.csproj.SuggestedBindingRedirects.cache
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.exe.config
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.BaseContext.resources
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.Forms.AddProducto.resources
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.Forms.AgregarCotizacion.resources
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.Forms.AgregarPedido.resources
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.Forms.AgregarVale.resources
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.Forms.Calculadora.resources
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.Forms.Cargando.resources
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.Forms.Descuento.resources
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.Forms.DetalleProductos.resources
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.Forms.LoginForm.resources
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.Forms.Mas.resources
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.Forms.NotaCreditoFacturacion.resources
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.Forms.Pago.resources
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.Forms.ProductoGrano.resources
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.Forms.RecargasPOS.resources
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.Forms.VentaAcumulada.resources
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.Forms.VentasPendientes.resources
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.MDIParent1.resources
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.Principal.resources
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.PrincipalV2.resources
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.Recibo.ComprobanteVenta.resources
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.Recibo.FacturaFEL.resources
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.Recibo.ReciboVenta.resources
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.Recibo.ReporteReciboCliente.resources
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.exe.manifest
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.application
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.exe
+C:\Users\wendi\Documents\Visual Studio 2022\PROYECTOS RED OWL SOFTWARE\Abarroteria\POS\obj\Debug\POS.pdb
